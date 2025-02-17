@@ -9,7 +9,8 @@ python twst2.py
 ---
 
 #note
-`kalau script nya tiba-tiba berhenti atau ada yang error itu di tunggu 1-3 menit, kemungkinan itu terjadi karena terlalu banyak threads, kalau ingin menanyakan sesuatu langsung chat saya aja di nknkr ini +6289519450908`
+
+`kalau script nya tiba-tiba berhenti atau ada yang error itu di tunggu 1-3 menit, kemungkinan itu terjadi karena terlalu banyak threads, kalau ingin menanyakan sesuatu langsung chat saya aja di nknkr ini ` > +6289519450908
 
 ---
 
